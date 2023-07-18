@@ -1,0 +1,49 @@
+.component-wrapper {
+  height: 17px;
+  position: relative;
+  width: 17px;
+}
+
+.component-wrapper .rectangle {
+  border: 0.65px solid;
+  border-color: #ffffff;
+  border-radius: 1.33px;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.component-wrapper .div {
+  border: 0.65px solid;
+  border-color: #ffffff;
+  border-radius: 1.33px;
+  height: 8px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.component-wrapper .rectangle-2 {
+  border: 0.65px solid;
+  border-color: #ffffff;
+  border-radius: 1.33px;
+  height: 8px;
+  left: 9px;
+  position: absolute;
+  top: 9px;
+  width: 8px;
+}
+
+.component-wrapper .rectangle-3 {
+  border: 0.65px solid;
+  border-color: #ffffff;
+  border-radius: 1.33px;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 8px;
+}

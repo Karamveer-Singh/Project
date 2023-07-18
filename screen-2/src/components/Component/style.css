@@ -1,0 +1,26 @@
+.component {
+  background-color: #ffffff;
+  background-image: url(../../../static/img/vector-13.svg);
+  background-size: 100% 100%;
+  border-radius: 10.93px/11px;
+  box-shadow: 0px 1px 4px #00000040;
+  height: 22px;
+  position: relative;
+  width: 22px;
+}
+
+.component .img {
+  height: 8px;
+  left: 7px;
+  position: absolute;
+  top: 5px;
+  width: 8px;
+}
+
+.component .vector-2 {
+  height: 2px;
+  left: 10px;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}

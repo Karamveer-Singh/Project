@@ -1,0 +1,52 @@
+.property-frame-wrapper {
+  height: 30px;
+  width: 29px;
+}
+
+.property-frame-wrapper .div-wrapper {
+  border-radius: 14.35px/14.98px;
+  height: 30px;
+}
+
+.property-frame-wrapper .line-wrapper {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 10px;
+  position: relative;
+  top: 9px;
+  width: 10px;
+}
+
+.property-frame-wrapper .line {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.property-frame-wrapper .frame-31 {
+  background-color: #22506c;
+}
+
+.property-frame-wrapper .frame-29 {
+  background-color: #d9d9d9;
+}
+
+.property-frame-wrapper .frame-30 {
+  background-color: #3584b4;
+}
+
+.property-frame-wrapper .div-wrapper.frame-31 .line-wrapper {
+  background-image: url(../../../static/img/line-45-5.svg);
+}
+
+.property-frame-wrapper .div-wrapper.frame-29 .line-wrapper {
+  background-image: url(../../../static/img/line-45-6.svg);
+}
+
+.property-frame-wrapper .div-wrapper.frame-30 .line-wrapper {
+  background-image: url(../../../static/img/line-45-6.svg);
+}

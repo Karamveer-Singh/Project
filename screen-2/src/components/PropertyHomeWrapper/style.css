@@ -1,0 +1,343 @@
+.property-home-wrapper {
+  width: 122px;
+}
+
+.property-home-wrapper .overlap-group-2 {
+  position: relative;
+}
+
+.property-home-wrapper .yellow-selected {
+  position: absolute;
+}
+
+.property-home-wrapper .rectangle-4 {
+  background-color: #fcdc30;
+  border-radius: 0px 5px 5px 0px;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.property-home-wrapper .rectangle-5 {
+  background-color: #fcdc30;
+  border-radius: 0px 5px 5px 0px;
+  height: 56px;
+  left: 111px;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 11px;
+}
+
+.property-home-wrapper .dashboard {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.property-home-wrapper .group-2 {
+  position: absolute;
+}
+
+.property-home-wrapper .overlap-group-3 {
+  height: 20px;
+  left: 21px;
+  position: absolute;
+  top: -1px;
+  width: 22px;
+}
+
+.property-home-wrapper .vector-3 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.property-home-wrapper .vector-4 {
+  height: 6px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.property-home-wrapper .my-jobs {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+}
+
+.property-home-wrapper .component-7-dashboard {
+  height: 23px !important;
+  left: 48px !important;
+  position: absolute !important;
+  top: 10px !important;
+  width: 23px !important;
+}
+
+.property-home-wrapper .component-instance {
+  border: 1.5px solid !important;
+  border-radius: 1.77px !important;
+  height: 11px !important;
+  width: 11px !important;
+}
+
+.property-home-wrapper .component-7-dashboard-instance {
+  border: 1.5px solid !important;
+  border-radius: 1.77px !important;
+  height: 11px !important;
+  left: 12px !important;
+  width: 11px !important;
+}
+
+.property-home-wrapper .instance-node {
+  border: 1.5px solid !important;
+  border-radius: 1.77px !important;
+  height: 11px !important;
+  left: 12px !important;
+  top: 12px !important;
+  width: 11px !important;
+}
+
+.property-home-wrapper .component-2 {
+  border: 1.5px solid !important;
+  border-radius: 1.77px !important;
+  height: 11px !important;
+  top: 12px !important;
+  width: 11px !important;
+}
+
+.property-home-wrapper .rectangle-6 {
+  background-color: #fcdc30;
+  border-radius: 0px 5px 5px 0px;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 11px;
+}
+
+.property-home-wrapper .rectangle-7 {
+  background-color: #fcdc30;
+  border-radius: 0px 5px 5px 0px;
+  height: 56px;
+  left: 111px;
+  position: absolute;
+  top: 23px;
+  transform: rotate(180deg);
+  width: 11px;
+}
+
+.property-home-wrapper .messages-2 {
+  left: 23px;
+  position: absolute;
+}
+
+.property-home-wrapper .text-wrapper {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+}
+
+.property-home-wrapper .messages-icon {
+  height: 20px;
+  left: 28px;
+  position: absolute;
+  top: -1px;
+  width: 20px;
+}
+
+.property-home-wrapper .overlap-group-wrapper {
+  height: 36px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.property-home-wrapper .overlap-group-4 {
+  height: 37px;
+  left: -1px;
+  position: relative;
+  width: 38px;
+}
+
+.property-home-wrapper .upcoming-events-icon {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 20px;
+}
+
+.property-home-wrapper .ellipse-2 {
+  background-color: #ffd600;
+  border-radius: 8.97px;
+  height: 18px;
+  left: 20px;
+  position: absolute;
+  top: 3px;
+  width: 18px;
+}
+
+.property-home-wrapper .element-2 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.property-home-wrapper .upcoming-events {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+}
+
+.property-home-wrapper.myjobs {
+  height: 57px;
+}
+
+.property-home-wrapper.messages {
+  height: 59px;
+  position: relative;
+}
+
+.property-home-wrapper.component-5 {
+  height: 81px;
+  position: relative;
+}
+
+.property-home-wrapper.home {
+  height: 56px;
+}
+
+.property-home-wrapper.myjobs .overlap-group-2 {
+  height: 57px;
+}
+
+.property-home-wrapper.messages .overlap-group-2 {
+  height: 58px;
+}
+
+.property-home-wrapper.component-5 .overlap-group-2 {
+  height: 58px;
+}
+
+.property-home-wrapper.home .overlap-group-2 {
+  height: 58px;
+}
+
+.property-home-wrapper.myjobs .yellow-selected {
+  height: 56px;
+  left: 0;
+  top: 0;
+  width: 122px;
+}
+
+.property-home-wrapper.messages .yellow-selected {
+  height: 56px;
+  left: 0;
+  top: 0;
+  width: 122px;
+}
+
+.property-home-wrapper.component-5 .yellow-selected {
+  height: 56px;
+  left: 0;
+  top: 0;
+  width: 122px;
+}
+
+.property-home-wrapper.home .yellow-selected {
+  height: 23px;
+  left: 18px;
+  top: 35px;
+  width: 87px;
+}
+
+.property-home-wrapper.myjobs .group-2 {
+  height: 47px;
+  left: 30px;
+  top: 10px;
+  width: 65px;
+}
+
+.property-home-wrapper.messages .group-2 {
+  height: 56px;
+  left: 0;
+  top: 0;
+  width: 122px;
+}
+
+.property-home-wrapper.component-5 .group-2 {
+  height: 56px;
+  left: 0;
+  top: 0;
+  width: 122px;
+}
+
+.property-home-wrapper.home .group-2 {
+  height: 56px;
+  left: 0;
+  top: 0;
+  width: 122px;
+}
+
+.property-home-wrapper.myjobs .messages-2 {
+  height: 54px;
+  top: 5px;
+  width: 79px;
+}
+
+.property-home-wrapper.messages .messages-2 {
+  height: 54px;
+  top: 5px;
+  width: 79px;
+}
+
+.property-home-wrapper.component-5 .messages-2 {
+  height: 81px;
+  top: 0;
+  width: 81px;
+}
+
+.property-home-wrapper.home .messages-2 {
+  height: 54px;
+  top: 5px;
+  width: 79px;
+}

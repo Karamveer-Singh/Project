@@ -1,0 +1,1 @@
+export { ArhiveDuotone } from "./ArhiveDuotone";

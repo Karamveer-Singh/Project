@@ -1,0 +1,13 @@
+.dell-fill {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.dell-fill .subtract-3 {
+  height: 18px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 18px;
+}

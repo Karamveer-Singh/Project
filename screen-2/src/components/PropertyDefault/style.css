@@ -1,0 +1,28 @@
+.property-default {
+  background-color: #f3f3f3;
+  border-radius: 12px;
+  height: 53px;
+  position: relative;
+  width: 601px;
+}
+
+.property-default .type-for-search {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 15.2px;
+  font-weight: 400;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 14px;
+}
+
+.property-default .group-3 {
+  height: 28px;
+  left: 18px;
+  position: absolute;
+  top: 15px;
+  width: 26px;
+}

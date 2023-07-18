@@ -1,0 +1,59 @@
+.group {
+  height: 61px;
+  position: relative;
+  width: 226px;
+}
+
+.group .overlap-group {
+  background-color: #ffffff;
+  border: 0.5px solid;
+  border-color: #000000;
+  border-radius: 11px;
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 226px;
+}
+
+.group .actively {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+}
+
+.group .vector {
+  height: 9px;
+  left: 189px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+
+.group .ellipse {
+  background-color: #0cc456;
+  border-radius: 6.11px;
+  height: 12px;
+  left: 22px;
+  position: absolute;
+  top: 12px;
+  width: 12px;
+}
+
+.group .job-search-status {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
